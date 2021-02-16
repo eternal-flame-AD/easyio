@@ -3,6 +3,8 @@ name = "easyio"
 version = "0.1.0"
 authors = ["ef"]
 edition = "2018"
+description = "Rust library for convenience IO functions"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
